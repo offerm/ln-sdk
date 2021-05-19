@@ -1,4 +1,4 @@
-package ln-sdk
+package lnsdk
 
 import (
 	"fmt"
@@ -10,7 +10,7 @@ import (
 	"google.golang.org/grpc/credentials"
 	"gopkg.in/macaroon.v2"
 	"io/ioutil"
-	"lnsdk/utils"
+	"github.com/offerm/ln-sdk/utils"
 	"os"
 	"path/filepath"
 )

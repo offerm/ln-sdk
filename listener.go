@@ -1,4 +1,4 @@
-package ln-sdk
+package lnsdk
 
 import (
 	"github.com/lightningnetwork/lnd/lnrpc"

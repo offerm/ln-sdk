@@ -1,4 +1,4 @@
-package ln-sdk
+package lnsdk
 
 const KeySendSecret = 5482373484
 const InvoiceHash = 5482373485

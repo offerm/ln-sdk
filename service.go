@@ -1,4 +1,4 @@
-package ln-sdk
+package lnsdk
 
 import (
 	"context"
