@@ -10,7 +10,7 @@ import (
 	"google.golang.org/grpc/credentials"
 	"gopkg.in/macaroon.v2"
 	"io/ioutil"
-	"github.com/offerm/ln-sdk/utils"
+	"github.com/offerm/lnsdk/utils"
 	"os"
 	"path/filepath"
 )
