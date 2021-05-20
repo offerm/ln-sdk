@@ -10,5 +10,5 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/urfave/cli/v2 v2.3.0
 	google.golang.org/grpc v1.29.1
-	gopkg.in/macaroon.v2 v2.1.0
+	gopkg.in/macaroon.v2 v2.0.0
 )
