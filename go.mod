@@ -1,4 +1,4 @@
-module github.com/offerm/ln-sdk
+module github.com/offerm/lnsdk
 
 go 1.15
 
